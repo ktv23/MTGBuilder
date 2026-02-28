@@ -257,6 +257,10 @@ Activate the relevant module based on Step 2 analysis.
 8. **FULL SORTED DECKLIST** — By category, alphabetical, `[Owned: X]` on every card, basic counts
 9. **ACQUISITION TARGETS** — 5-7 cards not in collection, priority ordered with explanations
 
+**Execution Strategy:** Complete all Python code execution and print the structured deck
+list with verification results FIRST. Stop and present results. Then, only when the user
+confirms or requests the analysis, generate the written report sections.
+
 ---
 
 ## QUALITY GATES (Build FAILS if any gate fails)
